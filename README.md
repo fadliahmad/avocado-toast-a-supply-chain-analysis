@@ -17,6 +17,4 @@ Here are some other key points about these files:
 
 After completing this project, you'll be armed with a list of ingredients and their countries of origin, and be well-positioned to launch into other analyses that explore how long, on average, these ingredients spend at sea.
 
-[def]: avocado_wallpaper.jpeg
-
-![alt text](avocado_wallpaper.jpeg)
+![alt text](src/avocado_wallpaper.jpeg)
